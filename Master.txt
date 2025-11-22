@@ -1,4 +1,4 @@
 
 <Version: 1.03>
-/img/titles1/sizune1.png https://drive.google.com/file/d/1O-T5fZLs0dPc9b2baGEr39apul9kHgSH/view?usp=sharing
+/img/titles1/sizune1.png https://res.cloudinary.com/dpsddmz1b/image/upload/v1763784528/sizune1_guxd8h.png
 <End of Version>
