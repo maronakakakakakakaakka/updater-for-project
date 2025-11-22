@@ -1,5 +1,4 @@
 
 <Version: 1.01>
 /img/titles1/sizune1.png https://yumetan6.wordpress.com/wp-content/uploads/2025/11/background-1.png
-
 <End of Version>
