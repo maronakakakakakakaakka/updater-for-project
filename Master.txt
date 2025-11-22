@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-/img/titles1/sizune1.png https://wordpress.org/latest.zip
+/img/titles1/sizune1.png https://res.cloudinary.com/dpsddmz1b/image/upload/v1763784528/sizune1_guxd8h.png
 <End of Version>
